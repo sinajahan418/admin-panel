@@ -34,3 +34,15 @@
 ```bash
 git clone https://github.com/username/admin-dashboard.git
 cd admin-dashboard
+
+npm install
+# یا
+yarn install
+# یا
+pnpm install
+# یا
+bun install
+
+
+
+npm run dev
